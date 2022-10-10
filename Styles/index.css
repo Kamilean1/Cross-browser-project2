@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.Logo {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 40px;
+    margin-left: 90px;
+}
+
+.Button1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -20px;
+    margin-right: 220px;
+}
+
+.Button2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -22px;
+    margin-right: 125px;
+}
+
+.Button-text {
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    letter-spacing: -0.346154px;
+    color: #111111;
+}
+
+.Main-title {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.Main-info {
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    /* or 138% */
+    color: #111111;
+}
+
+.Main-info2 {
+    display: flex;
+    margin-left: 90px;
+}
+
+.Main-info3 {
+    display: flex;
+    margin-left: 90px;
+}
+
+.Main-text {
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #111111;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.Details {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -22rem;
+    margin-right: 125px;
+}
+
+.Photo1 {
+    display: flex;
+    margin-top: 61px;
+    margin-left: 90px;
+}
+
+.Main-info4 {
+    display: flex;
+    margin-top: 45px;
+    margin-left: 90px;
+}
+
+.Main-text2 {
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #111111;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.Image-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.Image1 {
+    display: flex;
+    margin-top: 45px;
+    margin-left: 90px;
+}
+
+.Image2 {
+    display: flex;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+
+.Image3 {
+    display: flex;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+
+.Footer {
+    display: flex;
+    margin-top: 132px;
+    margin-left: 90px;
+    margin-bottom: 44px;
+}
